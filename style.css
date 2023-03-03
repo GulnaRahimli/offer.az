@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .logo img {
+    width: 130px;
+    height: 80px;
+    margin-top: 5px;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+    height: 80px;
+}
+
+.navbar ul {
+    display: flex;
+    margin-top: 20px;
+}
+
+.navbar ul li {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.navbar ul li:active {
+    color: rgb(255 102 0);
+
+}
+
+h2 {
+    font-size: 50px;
+    color: #fff;
+    padding-top: 60px;
+}
+
+p {
+    color: #fff;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+h3 {
+    color: #fff;
+}
+
+main {
+    background-color: rgb(37, 37, 90);
+    height: 100vh;
+}
+
+.span-1 {
+    color: rgb(255 102 0);
+}
+
+select {
+    margin-top: 40px;
+    width: 250px;
+    height: 40px;
+    background-color: #fff;
+    font-size: 20px;
+    color: gray;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+select option{
+   text-align: center;
+}
+button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(255 102 0);
+    margin-left: 15px;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+}
+h4{
+    font-size: 30px;
+    color: #040404;
+}
+.a .logo-1{
+ color:  rgb(255 102 0);
+
+}
+h4{
+    color: #fff;
+}
+.navbar a:active {
+    color:  rgb(255 102 0);
+}
+.navbar a:hover{
+    color:  rgb(255 102 0);
+}
+.social a {
+    margin: 0px 0px 6px;
+    color: rgb(169,184,195)}
+span ul li {
+    border: 100px;
+
+}
